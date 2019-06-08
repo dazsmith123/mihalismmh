@@ -9,5 +9,11 @@ My Targets:
   <li>Implementing the Smarty templating system to help with script performance.</li>
   <li>Improve the overall performance and security of Mihalism Multi Host and bring it up to date with today's technology, generally.</li>
 </ul>
+
+This will be a large task:
+<ul>
+  <li>All database queries should be updated</li>
+  <li>All template files should be updated</li>
+</ul>
   
 <p>I will start the project in the upcoming days or weeks, so stay tuned! :)</p>
