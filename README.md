@@ -1,6 +1,6 @@
 <h1>Mihalism Multihost - Updated Fork</h1>
 
-I am planning to update Mihalism Multihost after all these years.
+I am planning to update Mihalism Multihost after all these years, since it seems that no-one else is going to do it. ;)
 
 My Targets:
 <ul>
