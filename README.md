@@ -16,4 +16,4 @@ This will be a large task:
   <li>All template files should be updated</li>
 </ul>
   
-<p>I will start the project in the upcoming days or weeks, so stay tuned! :)</p>
+<p>Today, 08-06-2019 I have started working on Mihalism. Let's make this the script it once was again. If you would like more information about the status / completion of this fork, please contact me at my personal email address dsmith[at]dazsmith.net</p>
