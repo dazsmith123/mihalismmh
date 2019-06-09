@@ -21,6 +21,6 @@ This will be a large task:
 
 <p>UPDATE 09-06-2019: I have already rewritten nearly 75% of database queries along with a completely brand new database class based on PDO, which means that Mihalism is now supporting PHP7 to a certain extent.</p>
 
-<p>Next up; implement the <a href="https://www.smarty.net/">Smarty template system</a>, this will help make Mihalism  <more secure>, and will make the pages load much faster!</p>
+<p>Next up; implement the <a href="https://www.smarty.net/">Smarty template system</a>, this will help make Mihalism >more secure<, and will make the pages load much faster!</p>
 
 <p>Stay tuned. ;)</p>
