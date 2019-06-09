@@ -23,4 +23,5 @@ This will be a large task:
 
 <p>Next up; implement the <a href="https://www.smarty.net/">Smarty template system</a>, this will help make Mihalism >more secure<, and will make the pages load much faster!</p>
 
+<p>I am still updating trmplate files,this is a large task but i suspect that the project will be ready for upload and release this same month</p>
 <p>Stay tuned. ;)</p>
