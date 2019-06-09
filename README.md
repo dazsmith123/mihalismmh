@@ -19,4 +19,4 @@ This will be a large task:
 <p>Today, 08-06-2019 I have started working on Mihalism. Let's make this the script it once was again. If you would like more information about the status / completion of this fork, please contact me at my personal email address dsmith[at]dazsmith.net</p>
 
 
-<p>UPDATE 09-06-2019: I have already rewritten nearly 75% of database queries (PDO based), which means that Mihalism is now supporting PHP7 to a certain extent. Stay tuned. ;)</p>
+<p>UPDATE 09-06-2019: I have already rewritten nearly 75% of database queries along with a completely brand new database class based on PDO, which means that Mihalism is now supporting PHP7 to a certain extent. Stay tuned. ;)</p>
