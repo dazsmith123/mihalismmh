@@ -22,6 +22,8 @@ This will be a large task:
     <li>All database queries have now been revised and Mihalism is running very stable and is much faster purely because of these changes to the database class and queries.</li>
     <li>The template system still has alot to be done.</li>
     <li>The estimated completetion time date is: <b>15/07/2019</b>.</li>
+    <li>Many bugs have been fixed over the official v5.0.3 version and those relating to PHP7.</li>
     <li>This fork will be named as '<b>Mihalism Gold Edition</b>'</li>
     </ul>
+    Stay tuned :)
 </p>
