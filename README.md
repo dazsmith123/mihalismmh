@@ -1,4 +1,4 @@
-Unfortunately I am unable to implement Smarty due to the way Mihalism is handling template files, and so that is what is going to be done.
+Unfortunately I am unable to implement Smarty due to the way Mihalism is handling template files.
 
 The easiest way I have found to implement Smarty would be to recode the whole Mihalism software, don't stop reading yet, because that is what is going to be done - with the use of resources from Mihalism, I am starting a fresh, with a blank page.
 
