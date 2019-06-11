@@ -29,3 +29,12 @@ This will be a large task:
     </ul>
     I am confident that I will be able to support and update this script, since it's coded in a way in which is easy to understand, only without thought for performance and thats where I am coming in to save the day. Stay tuned. :)
 </p>
+
+<p>UPDATE: 11/06/2019
+  <ul>
+  <li>Successful implementation of Smarty templater.</li>
+  <li>Still rewriting template files - still lots of work to do.</li>
+        <li>Mihalism is running much more stable and fast under the new templater.</li>
+    <li>This fork will be named 'Mihalism Special Edition' (MSE).</li>
+    </ul>
+</p>
