@@ -8,5 +8,7 @@ On a positive note, Mihalism now supports PDO prepared database queries -- and o
 
 And so far.
 
+https://www.youtube.com/watch?v=ZDJ9SPdt1v0&feature=youtu.be&t=50
+
 Best,
 Daz
