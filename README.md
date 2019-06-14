@@ -4,7 +4,7 @@ Unfortunately, while not completely impossible, the way Mihalism handled templat
 
 My main aim is to optimise the software, and with that comes the smarty templater, without change the template system, there's not much point going further I decided, and so it will take a bit longer than originally planned while I rewrite templates, but I will not give up on it.
 
-On a positive note, Mihalism now supports PDO prepared queries.
+On a positive note, Mihalism now supports PDO prepared database queries -- and of course PHP 7.
 
 And so far.
 
