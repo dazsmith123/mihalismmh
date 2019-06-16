@@ -2,6 +2,8 @@ What's different in <strong>Mihalism-SE v1.0.0</strong> over <strong>Mihalism v5
 
 <ul>
     <strong>16/06/2019 UPDATE:</strong>
+		<li><strong>New feature:</strong> XThe built-in cron job system will help your image host stay running smoothly, even when you're not around!</li>
+		<li><strong>New feature:</strong> XThe new install script will guide you through the installation of Mihalism-SE step by step, it's as easy as 1-2-3!</li>
     <li><strong>Updated:</strong> The smarty templating will help your image host get better perfomance.</li>
 	<li><strong>Updated:</strong> PHP 7 Support.</li>
 	<li><strong>Security:</strong> The Mihalism-SE database class is based on PDO, which will better help prevent SQL injection.</li>
