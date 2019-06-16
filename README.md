@@ -10,6 +10,7 @@ What's different in <strong>Mihalism-SE v1.0.0</strong> over <strong>Mihalism v5
 	<li><strong>Security:</strong> Fixed bug where user can rate any value any image they want by editing the html value.</li>
     <li><strong>Security:</strong> Fixed bug where user can rate own images.</li>
 	<li><strong>Security:</strong> Fixed bug where user can upload to any album they wish.</li>
+	<li><strong>Security:</strong> Removed URL uploads features due critical security concern.</li>
 	<li><strong>Other:</strong> Bug fixes and enhanements.</li>
 </ul>
 
