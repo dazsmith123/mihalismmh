@@ -16,4 +16,13 @@ What's different in <strong>Mihalism-SE v1.0.0</strong> over <strong>Mihalism v5
 
 And much more to come, stay tuned for more updates :)
 
-The estimated completion date of this fork will be sometime in middle of <strong>July 2019</strong>.
+Notes:
+
+-If there is enough demand after release of the fork, I will write an upgrade script for v5.0.x users. That means existing image hosts will be able to upgrade to Mihalism-SE with little effort. If you are interested in this, feel free to contact me to let me know.
+
+-The estimated completion date of this fork will be sometime in middle of <strong>July 2019</strong>.
+
+-You can contact me for any further details or updates @ daz[at]dazsmith.net.
+
+Best wishes,
+Daz
