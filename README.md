@@ -1,14 +1,7 @@
-I have now implemented Smarty templater into Mihalism and am confident I can now get the project moving forward.
+It's good news that I've implemented Smarty and updated the templates to be compatible with that and it's coming near to complete.
 
-Unfortunately, while not completely impossible, the way Mihalism handled templates, just means there's alot of work to do for me.
-
-My main aim is to optimise the software, and with that comes the smarty templater, without change the template system, there's not much point going further I decided, and so it will take a bit longer than originally planned while I rewrite templates, but I will not give up on it.
-
-On a positive note, Mihalism now supports PDO prepared database queries -- and of course PHP 7.
-
-And so far.
-
-https://www.youtube.com/watch?v=ZDJ9SPdt1v0&feature=youtu.be&t=50
+Now I'm just adding extra security layers and measures to the software, :).
+https://www.youtube.com/watch?v=sk9WcXbkjaI
 
 Best,
 Daz
