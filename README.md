@@ -1,7 +1,6 @@
 What's different in <strong>Mihalism-SE v1.0.0</strong> over <strong>Mihalism v5.0.3</strong> so far?
 
 <ul>
-	<li><strong>New feature:</strong> Added new install script will guide you through the installation of Mihalism-SE step by step, it's as easy as 1-2-3!</li>
 	<li><strong>New feature:</strong> Added new user profile system with birthday selection, mood selection, and more.</li>
 	<li><strong>New feature:</strong> Added new built-in cron job system will help your image host stay running smoothly, even when you're not around!</li>
 	<li><strong>New feature:</strong> Added the ability to view and reply to emails sent through the contact form within Admin CP (requires mail server).</li>
