@@ -34,22 +34,26 @@ And much more to come, stay tuned for more updates :)
 Notes:
 
 Minimal System Requirements:
-[*]VPS or Dedicated server (Shared hosting is not recommended or supported).
-[*]Linux Operating System. Most distributions will work (Ubuntu >= 16.04 is recommended).
-[*]Apache Web Server
-[*]MySQL with PDO Support
-[*]PHP 5.6.0 or above
-[*]GD Library (Imagick is more advanced and is recommended).
-[*]PHP Session Support
+<ul>
+	<li>VPS or Dedicated server (Shared hosting is not recommended or supported).</li>
+	<li>Linux Operating System. Most distributions will work (Ubuntu >= 16.04 is recommended).</li>
+	<li>Apache Web Server</li>
+	<li>MySQL with PDO Support</li>
+	<li>PHP 5.6.0 or above</li>
+	<li>GD Library (Imagick 'ImageMagik' is more advanced and is recommended).</li>
+	<li>PHP Session Support</li>
+</ul>
 
 Recommended System Requirements:
-[*]VPS or Dedicated Server (Shared hosting is not recommended or supported).
-[*]Linux Operating System: Ubuntu 16.04 or above distribution.
-[*]Apache Web Server
-[*]MySQL with PDO Support
-[*]PHP 7.0, 7.1, or 7.2
-[*]Imagick PHP Library
-[*]PHP Session Support
+<ul>
+	<li>VPS or Dedicated Server (Shared hosting is not recommended or supported).</li>
+	<li>Linux Operating System: Ubuntu 16.04 or above distribution.</li>
+	<li>Apache Web Server</li>
+	<li>MySQL with PDO Support</li>
+	<li>PHP 7.0, 7.1, or 7.2</li>
+	<li>Imagick PHP Library</li>
+	<li>PHP Session Support</li>
+</ul>
 
 -If there is enough demand after release of the fork, I will write an upgrade script for v5.0.x users. That means existing image hosts will be able to upgrade to Mihalism-SE with little effort. If you are interested in this, feel free to contact me to let me know.
 
