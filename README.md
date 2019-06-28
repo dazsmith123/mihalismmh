@@ -13,7 +13,9 @@ As well as the new features above, the smarty templater is now fully implemented
 
 The security has also been majorly improved with proper escaping methods being used in the script (specifically the 'htmlspecialchars' function), many known and unknown security holes existing in the official release are fixed in Mihalism-SE. Although for now; I'd still recommend mod_security in combination with Mihalism-SE, it should no longer be a neccessarity. :)
 
-I invite anyone (whether it be testers, or developers) interested in helping to bring Mihalism into 2019, to contact me at my personal email daz [at] dazsmith.net , I'd be happy for anyones assistance in moving the protect forward.
+I invite anyone (whether it be testers, or developers) interested in helping to bring Mihalism into 2019, to contact me at my personal email daz [at] dazsmith.net , I'd be happy for anyones assistance in moving the protect forward. 
+
+Within time, I do plan for a new bootstrap theme to be integrated into Mihalism-SE (mobile friendly design), but I'd need assistance from designers for this.
 
 First version of Mihalism-SE will be released within the next month.
 
