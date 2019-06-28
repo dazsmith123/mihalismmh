@@ -2,8 +2,9 @@ Daz here again, I am moving forward with the Mihalism-SE project and have a snea
 
 Here you go:
 https://i.ibb.co/Hr2gc9M/screencapture-mihalism-test-admin-php-2019-06-28-14-14-56.png
-
-
+http://mihalism.me/1.png
+http://mihalism.me/2.png
+http://mihalism.me/3.png
 
 
 Currently I will just use this readme file as a 'whiteboard' and refork the project when it's ready.
