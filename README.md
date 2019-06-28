@@ -11,7 +11,7 @@ http://mihalism.me/3.png
 
 As well as the new features above, the smarty templater is now fully implemented and working, also the PDO database class and queries are working and have been tested too.
 
-The security has also been majorly improved with proper escaping methods being used in the script, many known and unknown security holes existing in the official release are fixed in Mihalism-SE.
+The security has also been majorly improved with proper escaping methods being used in the script (specifically the 'htmlspecialchars' function), many known and unknown security holes existing in the official release are fixed in Mihalism-SE.
 
 Mihalism-SE will be released within the next month.
 
