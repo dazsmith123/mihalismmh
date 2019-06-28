@@ -19,6 +19,8 @@ Within time, I do plan for a new bootstrap theme to be integrated into Mihalism-
 
 First version of Mihalism-SE will be released within the next month.
 
+Please note: images above do not contain the full feature set and may differ entirely in the release.
+
 Stay tuned for more updates
 
 
