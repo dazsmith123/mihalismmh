@@ -30,5 +30,11 @@ More updates:
 http://mihalism.me/4.png
 http://mihalism.me/5.png
 
+Example of the smarty tpl implementation can be seen here
+http://mihalism.me/6.png
+
+Example of how we're now running pdo prepared queries can be seen here
+http://mihalism.me/7.png
+
 
 PS. Currently I will just use this readme file as a 'whiteboard' and refork the project when it's ready.
