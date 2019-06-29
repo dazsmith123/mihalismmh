@@ -23,5 +23,12 @@ Please note: images above do not contain the full feature set and may differ ent
 
 Stay tuned for more updates
 
+More updates:
+-New notices/system messages
+-Finished internal email system 
+
+http://mihalism.me/4.png
+http://mihalism.me/5.png
+
 
 PS. Currently I will just use this readme file as a 'whiteboard' and refork the project when it's ready.
