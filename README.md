@@ -14,7 +14,7 @@ Progress since Last Update:
 
 In addition to the above features, many small changes and bug fixes have been made.
 
-The release date for Mihalism-SE has now been pushed forward to the middle of November 2019.
+The release date for Mihalism-SE has now been pushed forward to the middle of November 2019. This is because I'd rather release a finished and stable product rather than a rushed, untidy and/or unstable one.
 
 Please see the new feature screenshots below:
 
@@ -40,7 +40,7 @@ https://mihalism.me/screens/register/1.png
 
 https://mihalism.me/screens/version/1.png
 
-That's all for now.
+That's all for now, stay tuned for further updates next month.
 
 Best regards,
 Daz
