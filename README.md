@@ -1,40 +1,40 @@
-Daz here again, I am moving forward with the Mihalism-SE project and have a sneaky preview of one of the new features for you.
+09/07/2019
 
-Here you go:
-https://i.ibb.co/Hr2gc9M/screencapture-mihalism-test-admin-php-2019-06-28-14-14-56.png
+Progress since Last Update:
 
-http://mihalism.me/1.png
+-Full PDO Support
+-Smarty Templating Support
+-Simple BBCode Support
+-New Captcha System (including reCaptcha support)
+-New Register User form to admin panel
+-New FAQ System (Frequently Asked Question)
+-New Profile System (Unfinished)
+-New Email System
+-New Version Update Checker
 
-http://mihalism.me/2.png
+In addition to the above features, many small changes and bug fixes have been made.
 
-http://mihalism.me/3.png
+The release date for Mihalism-SE has now been pushed forward to the middle of November 2019.
 
-As well as the new features above, the smarty templater is now fully implemented and working, also the PDO database class and queries are working and have been tested too.
+Please see the new feature screenshots below:
+https://mihalism.me/screens/captcha/1.png
+https://mihalism.me/screens/captcha/2.png
+https://mihalism.me/screens/captcha/3.png
 
-The security has also been majorly improved with proper escaping methods being used in the script (specifically the 'htmlspecialchars' function), many known and unknown security holes existing in the official release are fixed in Mihalism-SE. Although for now; I'd still recommend mod_security in combination with Mihalism-SE, it should no longer be a neccessarity. :)
+https://mihalism.me/screens/email/1.png
+https://mihalism.me/screens/email/2.png
 
-I invite anyone (whether it be testers, or developers) interested in helping to bring Mihalism into 2019, to contact me at my personal email daz [at] dazsmith.net , I'd be happy for anyones assistance in moving the protect forward. 
+https://mihalism.me/screens/faq/1.png
+https://mihalism.me/screens/faq/2.png
+https://mihalism.me/screens/faq/3.png
 
-Within time, I do plan for a new bootstrap theme to be integrated into Mihalism-SE (mobile friendly design), but I'd need assistance from designers for this.
+https://mihalism.me/screens/profile/1.png
 
-First version of Mihalism-SE will be released within the next month.
+https://mihalism.me/screens/register/1.png
 
-Please note: images above do not contain the full feature set and may differ entirely in the release.
+https://mihalism.me/screens/version/1.png
 
-Stay tuned for more updates
+That's all for now.
 
-More updates:
--New notices/system messages
--Finished internal email system 
-
-http://mihalism.me/4.png
-http://mihalism.me/5.png
-
-Example of the smarty tpl implementation can be seen here
-http://mihalism.me/6.png
-
-Example of how we're now running pdo prepared queries can be seen here
-http://mihalism.me/7.png
-
-
-PS. Currently I will just use this readme file as a 'whiteboard' and refork the project when it's ready.
+Best regards,
+Daz
