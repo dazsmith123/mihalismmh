@@ -18,14 +18,19 @@ The release date for Mihalism-SE has now been pushed forward to the middle of No
 
 Please see the new feature screenshots below:
 https://mihalism.me/screens/captcha/1.png
+
 https://mihalism.me/screens/captcha/2.png
+
 https://mihalism.me/screens/captcha/3.png
 
 https://mihalism.me/screens/email/1.png
+
 https://mihalism.me/screens/email/2.png
 
 https://mihalism.me/screens/faq/1.png
+
 https://mihalism.me/screens/faq/2.png
+
 https://mihalism.me/screens/faq/3.png
 
 https://mihalism.me/screens/profile/1.png
