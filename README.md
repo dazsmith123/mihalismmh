@@ -17,6 +17,7 @@ In addition to the above features, many small changes and bug fixes have been ma
 The release date for Mihalism-SE has now been pushed forward to the middle of November 2019.
 
 Please see the new feature screenshots below:
+
 https://mihalism.me/screens/captcha/1.png
 
 https://mihalism.me/screens/captcha/2.png
